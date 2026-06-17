@@ -312,6 +312,3 @@ The key difference is scale — production tools monitor thousands of real devic
 ## License
 
 MIT
-#   N e t w o r k - D e v i c e - M o n i t o r i n g  
- #   N e t w o r k - D e v i c e - M o n i t o r i n g  
- 
